@@ -1,4 +1,4 @@
-# LojaApps
+# Alura Plus
 
 Projeto acadêmico focado em HTML e CSS3
 
