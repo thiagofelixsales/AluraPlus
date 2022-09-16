@@ -10,6 +10,6 @@ Projeto acadêmico focado em HTML e CSS3
 | :fire: Desafio     | https://url-do-desafio.com.br
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![](![image](https://drive.google.com/file/d/15XC0T28TJjlQBbyEfKLTaVvfZ3BCMobA/view?usp=sharing)
+![](![image](https://drive.google.com/file/d/15XC0T28TJjlQBbyEfKLTaVvfZ3BCMobA/view?usp=sharing
 #vitrinedev)
 
